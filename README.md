@@ -5,7 +5,7 @@ Moleculer and atomic analysis scripts based on Python
 ##  Included Modules
 
 * **`bond_analyzer.py`**: Parses Cartesian coordinates (`.xyz`) to calculate interatomic bond lengths and pairwise distance matrices using NumPy.
-* **`lj_potential.ipynb`**: Interactive notebook modeling Lennard-Jones (12-6) potential energy curves and parameter variations for inert gases.
+* **`fingerprint_similarity_analyzer`**: Identifying the fingerprints of the molecule and determining the similarities between molecules.
 
 ##  Sample Output
 <!-- Bilgisayarınızdan aldığınız grafiği buraya sürükleyip bırakırsanız GitHub otomatik görsel linki oluşturur -->
