@@ -1,4 +1,4 @@
-# Computational Chemistry & Cheminformatics Workflows
+# Computational Chemistry Workflows
 
 Moleculer and atomic analysis scripts based on Python
 
