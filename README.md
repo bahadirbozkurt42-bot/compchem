@@ -1,16 +1,16 @@
 # Computational Chemistry & Cheminformatics Workflows
 
-Lightweight tools and exploratory scripts for molecular analysis, geometry calculations, and potential energy modeling.
+Moleculer and atomic analysis scripts based on Python
 
-## 🧪 Included Modules
+##  Included Modules
 
 * **`bond_analyzer.py`**: Parses Cartesian coordinates (`.xyz`) to calculate interatomic bond lengths and pairwise distance matrices using NumPy.
 * **`lj_potential.ipynb`**: Interactive notebook modeling Lennard-Jones (12-6) potential energy curves and parameter variations for inert gases.
 
-## 📊 Sample Output
+##  Sample Output
 <!-- Bilgisayarınızdan aldığınız grafiği buraya sürükleyip bırakırsanız GitHub otomatik görsel linki oluşturur -->
 
-## 🚀 Quickstart
+##  Quickstart
 ```bash
 git clone [https://github.com/bahadirbozkurt42-bot/compchem.git](https://github.com/bahadirbozkurt42-bot/compchem.git)
 cd compchem
