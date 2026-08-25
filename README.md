@@ -1,6 +1,6 @@
 # Cheminformatics
 
-## Projects
+# Projects
 ## Fingerprint Similarity Analysis
 
 
